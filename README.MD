@@ -2,7 +2,7 @@
 
 ZUSE is a sleek, minimal IRC client for your terminal. Built with Go and powered by the elegant Bubble Tea framework. Chat faster, cleaner, and without distractions right from your terminal.
 
-ZUSE also comes pre-built on the [Nightride synthwave radio terminal client](https://github.com/babycommando/nightride-cli), give some love there!
+ZUSE also comes pre-built on the [Nightride](https://github.com/babycommando/nightride-cli) synthwave radio terminal client, give some love there!
 
 ---
 
